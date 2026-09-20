@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Zaid Sohail
 
-🎓 A second-semester **Software Engineering student** at Virtual University, currently maintaining a **3.88/4.00 CGPA**  
+🎓 A fifth-semester **Software Engineering student** at Virtual University, currently maintaining a **3.83/4.00 CGPA**  
 🧠 Learning **Data Structures & Algorithms** and sharpening my **Python** skills  
 🤖 Exploring the world of **Artificial Intelligence** with curiosity and consistency  
 💡 I love **problem solving**, **competitive programming**, and learning new algorithms  
