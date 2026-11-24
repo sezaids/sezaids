@@ -79,4 +79,14 @@
 
 ---
 
-## 🌐 Connect With Me
+
+## Useful Developer Resources
+
+Here are some useful Microsoft resources for students and developers who want to learn new skills and build better projects.
+
+- **[.NET](https://dotnet.microsoft.com/?wt.mc_id=studentamb_686054)** - Learn how to build web, desktop, mobile, and cloud applications using .NET and C#.
+
+- **[Microsoft Developer](https://developer.microsoft.com/?wt.mc_id=studentamb_686054)** - Explore developer tools, learning resources, tutorials, and Microsoft technologies.
+
+- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=studentamb_686054)** - A free and lightweight code editor that supports multiple programming languages, debugging, and useful extensions.
+
